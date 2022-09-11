@@ -1,0 +1,120 @@
+.header {
+    background-color: red;
+    margin-bottom: 30px;
+    text-decoration-color: white;
+    color: white;
+}
+
+.container {
+    width: 940px;
+    text-align: center;
+    background-color: rosybrown;
+}
+
+#billAmount {
+    width: 300px;
+    margin-bottom: 20px;
+    height: 30px;
+    border:solid 2px green;
+    border-radius: 10px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    margin-top: -17px;
+    height: 30px;
+}
+
+.output {
+    margin-top: 30px;
+    border:solid 5px;
+    border-radius: 8px 10px;;
+}
+
+#primary {
+    margin-bottom: 25px;
+
+}
+
+.table {
+    width: 100%;
+
+}
+
+
+
+table, th, td {
+    border: 10px solid black;
+}
+
+input:focus{
+    outline: none;
+    box-shadow: 0px 0px 5px #1f89c2;
+    border-color: #3393c4;
+    
+}
+
+#service:focus {
+    outline: none;
+    box-shadow: 0px 0px 8px #1f89c2;
+    border-color: #008acf;
+}
+
+.custList {
+    text-align: left;
+    font-size: 10px;
+}
+#Enter{
+    font-size:  50px;
+}
+#services{
+    
+    font-size:25px; 
+    padding: 5px;
+}
+#service{
+   margin-right: 100px;
+    height: 50px;
+    width : 200px;
+    border-radius: 10px;
+ 
+   font-size: 25px;
+}
+#input1{
+    margin-right: 50px;
+    height: 50px;
+    width : 250px;
+    border-radius: 10px;
+    padding-left: 30px;
+ 
+   font-size: 25px;
+}
+#primary{
+    
+    height: 50px;
+    width : 250px;
+    border-radius: 10px;
+   font-size: 25px;
+   background-color:seagreen;
+}
+#cus{
+    font-size: 25;
+}
+#ul{
+    font-size: 25px;
+}
+#btw{
+    height: 45px;
+    width: 400px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.total{
+    border: solid 2px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+
+
